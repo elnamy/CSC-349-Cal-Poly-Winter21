@@ -1,0 +1,4 @@
+3 Strongly Connected Component(s):
+0, 1, 2
+3
+4
