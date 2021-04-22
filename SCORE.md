@@ -20,16 +20,6 @@ Breakdown (details, if any, are at the end):
         Part 2: Tests larger graphs
                 test case 7: passed.
         Part 2 Score: 2.0/2.0 points
-       
-
-If you think that there is an error with this grading, send an email to your
-grader:
-
-    Viet Nguyen (vnguy143@calpoly.edu)
-
-Please do not reply to this email. In the email you're sending, include a copy
-of this feedback and a description of what you believe is graded incorrectly.
-You must send the email from your Cal Poly account.
 
 Part 0 details:
         test case 1:
